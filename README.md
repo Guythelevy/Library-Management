@@ -49,7 +49,8 @@
 - **- **Data Persistence**: User and book data are stored in CSV files (`users.csv`, `books.csv`, `loaned_books.csv`).
 
 ### 🧪 Tests
-- The project includes a `TESTS` folder containing automated test files to ensure the correctness of core functionalities.**: User and book data are stored in CSV files (`users.csv`, `books.csv`, `loaned_books.csv`).
+- The project includes a `Tests` folder containing automated test files to ensure the correctness of core functionalities.**: User and book data are stored in CSV files (`users.csv`, `books.csv`, `loaned_books.csv`).
+- U can use LibraryManagerTester and UserManagerTester to test the core functionalities of the program.
 
 ## 🔧 Design Patterns and Concepts Used
 
